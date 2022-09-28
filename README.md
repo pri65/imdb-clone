@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+<h1 align="center">IMDB App Clone</h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center"><a href="https://verdant-naiad-5ac918.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
-## Available Scripts
+<p align="center"> 
+    <br />&#10023;
+    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
+    <a href="#Contributors">Contributors</a> &#10023;
+  </p>
+  
+  IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows.
+  
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Glimpse of Website
+ 
+   ![Homepage](https://user-images.githubusercontent.com/101036458/192760012-8dc2b803-d72c-432b-b183-5ffd30a4a6ae.png)
+![content grid](https://user-images.githubusercontent.com/101036458/192759763-f5e2f468-30b2-44ee-8d92-2633af84a227.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![single content](https://user-images.githubusercontent.com/101036458/192759775-130585e3-7216-4b37-8ef4-af7132b2fad8.png)
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project was built using React, CSS, JavaScript.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+The project repository can be found in [GitHub link](https://github.com/pri65/imdb-clone) or just clone the project using this command. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Using HTTPS
+# git clone https://github.com/pri65/imdb-clone
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Install NPM
 
-## Learn More
+Check that you have node and npm installed
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To check if you have Node.js installed, run this command in your terminal:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+```
+node -v
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+To confirm that you have npm installed you can run this command in your terminal:
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+npm -v
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+To install all the dependences of the project, run the following command:
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+npm install
+```
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To run the application got to the client folder and run the following command:
 
-### `npm run build` fails to minify
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Tools used on this project
+
+- Visual Studio Code
+
+
+
+<br/>
+
+## Contributors
+
+- [Priyanka Soni](https://github.com/pri65)
+
+
+
+## Show your support
+
+Give a ⭐ if you like this project!

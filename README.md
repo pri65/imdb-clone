@@ -19,64 +19,20 @@
 
 ![single content](https://user-images.githubusercontent.com/101036458/192759775-130585e3-7216-4b37-8ef4-af7132b2fad8.png)
 
-## Getting Started
+## 🤝 Contributing
 
-This project was built using React, CSS, JavaScript.
+Contributions, issues and feature requests are welcome! Start by:
 
-### Setup
-
-
-The project repository can be found in [GitHub link](https://github.com/pri65/imdb-clone) or just clone the project using this command. 
-
-
-```
-Using HTTPS
-# git clone https://github.com/pri65/imdb-clone
-```
-
-## Install
-
-Install NPM
-
-Check that you have node and npm installed
-
-To check if you have Node.js installed, run this command in your terminal:
+* Forking the project
+* Cloning the project to your local machine
+* `cd` into the project directory
+* Run `git checkout -b your-branch-name`
+* Make your contributions
+* Push your branch up to your forked repository
+* Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 
-```
-node -v
-```
-
-To confirm that you have npm installed you can run this command in your terminal:
-
-
-```
-npm -v
-```
-
-
-To install all the dependences of the project, run the following command:
-
-
-```
-npm install
-```
-
-
-To run the application got to the client folder and run the following command:
-
-```
-npm start
-```
-
-
-### Tools used on this project
-
-- Visual Studio Code
-<br/>
-
-## Contributors
-
+## Authors
 - [Priyanka Soni](https://github.com/pri65)
 
 

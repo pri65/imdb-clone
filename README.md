@@ -1,20 +1,16 @@
-<h1 align="center">IMDB App Clone</h1> 
+# IMDB - Online Movie Rating App
+> This project is a clone of IMDB website. It is created by using React/Redux, Html and Javascript. It contains two pages, the home page, where all the content is categorised and the content page. This website is completely responsive.
 
-<h3 align="center"><a href="https://verdant-naiad-5ac918.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+## Built With
 
-<p align="center"> 
-    <br />&#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contributors">Contributors</a> &#10023;
-  </p>
-  
-  IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows.
-  
+- HTML,
+- CSS,
+- Javascript
+- Reactjs
 
-<br />
+## Live Demo [Live Demo
 
-
-
+[Live Demo Link](https://verdant-naiad-5ac918.netlify.app/)
 
 ## Glimpse of Website
  
@@ -77,9 +73,6 @@ npm start
 ### Tools used on this project
 
 - Visual Studio Code
-
-
-
 <br/>
 
 ## Contributors
